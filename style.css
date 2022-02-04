@@ -391,34 +391,34 @@ background-repeat: no-repeat;
 
 /* top images */
 #top-right {
-    background-image: url(./images/gallery4.jpg);
+    background-image: url('./images/gallery4.jpg');
 }   
 
 #top-left {
 
-    background-image: url(./images/gallery5.jpg);
+    background-image: url('./images/gallery5.jpg');
 }
 
 /* middle image*/
 #middle-left {
 
-    background-image: url(./images/gallery7.jpg);
+    background-image: url('./images/gallery7.jpg');
 }
 
 #middle-right {
 
-    background-image: url(./images/gallery6.jpg);
+    background-image: url('./images/gallery6.jpg');
 }
 
 /*bottom images*/
 #bottom-left {
 
-    background-image: url(./images/gallery2.jpg);
+    background-image: url('./images/gallery2.jpg');
 }
 
 #bottom-right {
 
-    background-image: url(./images/gallery1.jpg);
+    background-image: url('./images/gallery1.jpg');
 }
 
 
